@@ -2,13 +2,7 @@
 
 This repo is for QHack 2024: Identifying Phases with Quantum Convolutional Neural Network
 
-Contributors:
-
-Zhangjie Qin
-
-Ho Lun Tang
-
-Louie Hong Yao
+Contributors: Zhangjie Qin (https://github.com/zhangjieqingithub), Ho Lun Tang (https://github.com/holuntang), Louie Hong Yao (https://github.com/ruyi101)
 
 ## Abstract
 
